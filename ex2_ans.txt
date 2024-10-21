@@ -1,0 +1,2 @@
+1. git status by default is on main (or on master)
+9. this is a modification for question 9
